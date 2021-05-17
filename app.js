@@ -90,9 +90,6 @@ app.use(passport.session());
 
 // end of passport configuration
 
-
-
-
 // 👇 Start handling routes here
 // Contrary to the views version, all routes are controled from the routes/index.js
 
